@@ -1,0 +1,15 @@
+---
+layout: default
+chapitre: table de matière
+order: 1.1
+---
+
+# Présentation de kotlin
+## Votre premier programme en Kotlin
+### Résumé
+- Un programme Kotlin nécessite une fonction principale comme point d'entrée du programme.
+- Pour définir une fonction en langage Kotlin, utilisez le mot clé fun, suivi du nom de la fonction, puis des entrées comprises entre parenthèses, et enfin du corps de la fonction, entre accolades.
+- Le nom d'une fonction doit respecter la convention camel case, et commencer par une lettre minuscule.
+- Utilisez l'appel de fonction println() pour que la sortie affiche du texte.
+- Reportez-vous au guide de style Kotlin pour connaître les conventions de mise en forme et de programmation à suivre lors du codage en langage Kotlin.
+- Le dépannage consiste à corriger les erreurs dans votre code.
